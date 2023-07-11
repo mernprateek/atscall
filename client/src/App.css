@@ -1,0 +1,27 @@
+.create-entry {
+  margin-bottom: 20px;
+}
+
+.search-panel {
+  margin-top: 20px;
+}
+
+.search-form {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.search-field {
+  margin-right: 10px;
+}
+
+.search-button {
+  margin-top: 10px;
+}
+
+.table-container {
+  margin-top: 20px;
+}
